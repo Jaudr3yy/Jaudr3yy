@@ -1,8 +1,6 @@
-<h1><strong>Hi! I'm Audrey<br /></strong></h1>
+<h1><strong>Hi! I'm Audrey (she/her) 👋<br /></strong></h1>
 
-### Hi there 👋
-
-I'm Audrey, I'm currently a full time roblox developer. 
+I work as a full time roblox developer, and have contributed to over 2 billion place visits!
 
 🔭 I’m currently working on 
 - Flydev! 
