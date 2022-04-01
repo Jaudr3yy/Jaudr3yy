@@ -1,16 +1,18 @@
+<h1><strong>Hi! I'm Audrey<br /></strong></h1>
+
 ### Hi there 👋
 
-<!--
-**Jaudr3yy/Jaudr3yy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Audrey, I'm currently a full time roblox developer. 
 
-Here are some ideas to get you started:
+🔭 I’m currently working on 
+- Flydev! 
+- Other cool stuff B)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning
+- Lua 
+- Computer Animation
+- 3D modeling
+
+📫 How to reach me: 
+Discord: Jaudr3y#2207
+Twitter: @Jaudr3y
